@@ -12,7 +12,7 @@ I added a table of contents just to see if I could figure out how to do it. The 
 * [Lets add a Badges Section](#-badges)
 * [And a Features Section](#-features)
 * [Cant Forget a Contributing Section](#-contributing)
-* [Last is a Tests Section](#-tests)
+* [Last is a Tests Section](#tests)
 
 ## Installation
 
