@@ -15,7 +15,14 @@ I added a table of contents just to see if I could figure out how to do it. The 
 * [Last is a Tests Section](#tests)
 
 ## Installation
-
+1. This first step is to download Visual Studio Code. [Download Visual Studio Code Here!](https://code.visualstudio.com/Download)
+1. Next, create a Gitlab account. [Creat a Gitlab account here!](https://about.gitlab.com/)
+1. And a Github account. [Creat a Github account here!](https://github.com/)
+1. Gitbash, or Terminal needs to be installed. [Download here!](https://git-scm.com/downloads)
+1. Then enroll in DU's coding bootcamp, join a class, and download a homework project...
+1. Edit it in Visual Studio Code
+1. Now, create a new repository in Github
+1. Use Gitbash to push your edits to Github for the world to see!
 ## Usage
 I used the text editor Visual Studio Code to edit the HTML and CSS files. Then, I added the edited files to my local repository, committing the changes with unique specific comments, pulled all remote repository files and pushed the remaining changes to this remote repository. This image shows the completed, edited documents.
 image
