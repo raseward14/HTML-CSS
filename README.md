@@ -38,11 +38,5 @@ Here are a few resources that helped me get this project knocked out!
 * [An awesome README example provided by my DU instructors](https://github.com/microsoft/vscode)
 
 ## License
+©2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
-## Badges
-
-## Features
-
-## Contributing
-
-## Tests
