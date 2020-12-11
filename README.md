@@ -6,7 +6,7 @@ This repository is where i've uploaded my first homework assignment. The source 
 ## Usage
 basic instructions
 image
-![alt text](assets/images/screenshot.png)
+![visual studio code image](assets/images/vsc.png)
 ## Credits
 ## License
 ## Badges
