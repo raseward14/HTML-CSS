@@ -5,13 +5,13 @@ This repository is where i've uploaded my first homework assignment. The source 
 
 ## Table of Contents
 I added a table of contents just to see if I could figure out how to do it. The links below take you through this README.
-* [Go to the Installation Section](#-installation)
-* [Now go to the Usage Section](#-usage)
-* [Try the Credits Section](#-credits)
-* [Or the License Section](#-license)
-* [Lets add a Badges Section](#-badges)
-* [And a Features Section](#-features)
-* [Cant Forget a Contributing Section](#-contributing)
+* [Go to the Installation Section](#installation)
+* [Now go to the Usage Section](#usage)
+* [Try the Credits Section](#credits)
+* [Or the License Section](#license)
+* [Lets add a Badges Section](#badges)
+* [And a Features Section](#features)
+* [Cant Forget a Contributing Section](#contributing)
 * [Last is a Tests Section](#tests)
 
 ## Installation
