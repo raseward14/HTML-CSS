@@ -12,10 +12,6 @@ I added a table of contents just to see if I could figure out how to do it. The 
 * [Now go to the Usage Section](#usage)
 * [Try the Credits Section](#credits)
 * [Or the License Section](#license)
-* [Lets add a Badges Section](#badges)
-* [And a Features Section](#features)
-* [Cant Forget a Contributing Section](#contributing)
-* [Last is a Tests Section](#tests)
 
 ## Installation
 1. This first step is to download Visual Studio Code. [Download Visual Studio Code Here!](https://code.visualstudio.com/Download)
